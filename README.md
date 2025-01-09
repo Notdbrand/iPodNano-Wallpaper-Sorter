@@ -1,6 +1,6 @@
 # iPodNano-Wallpaper-Sorter
 
-This tool processes full-resolution and thumbnail background images, renaming and copying them for each iPod Nano 7G color (6G support coming soon). 
+This tool processes full-resolution and thumbnail background images, renaming and copying them for each iPod Nano 7G colour (6G support coming soon). 
 
 ## How to Use
 
